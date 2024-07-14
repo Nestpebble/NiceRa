@@ -4,7 +4,7 @@
   "name": "Sidekick Breakout V1.0",
   "content": "",
   "created_at": "2024-07-09 13:36:59",
-  "updated_at": "2024-07-14 01:24:30",
+  "updated_at": "2024-07-14 03:03:21",
   "stick": "",
   "documents": [
     {
@@ -176,11 +176,11 @@
         "b111ea66e8384780b5ead25874f3491d": 1
       },
       "BOM": [],
-      "updateTime": 1720914939,
+      "updateTime": 1720921490,
       "createTime": 1720530007,
       "histories": [],
       "created_at": "2024-07-09 14:00:07",
-      "updated_at": "2024-07-14 00:55:39"
+      "updated_at": "2024-07-14 02:44:50"
     },
     {
       "uuid": "de07d5ae7ade10c0eeb65dc87b6aeed5",
@@ -197,11 +197,11 @@
         "0f61bc130b66439cb6e6aee411f9ec0d": 1
       },
       "BOM": [],
-      "updateTime": 1720916670,
+      "updateTime": 1720922601,
       "createTime": 1720532186,
       "histories": [],
       "created_at": "2024-07-09 14:36:26",
-      "updated_at": "2024-07-14 01:24:30"
+      "updated_at": "2024-07-14 03:03:21"
     }
   ],
   "sort": [],
