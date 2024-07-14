@@ -1,0 +1,212 @@
+{
+  "uuid": "6c96f18c9867eae199421726f7f8b882",
+  "path": "Offline/Sidekick%20Breakout%20V1.0",
+  "name": "Sidekick Breakout V1.0",
+  "content": "",
+  "created_at": "2024-07-09 13:36:59",
+  "updated_at": "2024-07-14 01:24:30",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "0564d5a33d7df78ec9a79c6a3ad2360d",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "b8085247af35457f9a0beebdcd125606": 1,
+        "2fa53d590f544429ab8fcbd581d715c1": 3,
+        "08b8481ff5ee4c5185528e714b50fa22": 1,
+        "b1cccb90d4424b199d2e1b7dc51de7eb": 1,
+        "5d56951fd43d4b5083b0f3cd9bfd5587": 2,
+        "c5be6227975743c2ba9579b8a4b76406": 1,
+        "450a71111e594c8fb6d58d360455879f": 1,
+        "a9aa2b14f188405792fa87ac344499a4": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "PM2.54-1*12",
+          1,
+          "HDR-TH_12P-P2.54-V-F",
+          "H1",
+          {
+            "Manufacturer Part": "PM2.54-1*12",
+            "Manufacturer": "ZHOURI(洲日)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C5224029"
+          }
+        ],
+        [
+          "HDR-M-2.54_1x2",
+          1,
+          "HDR-M-2.54_1X2",
+          "J1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C124375"
+          }
+        ],
+        [
+          "1M",
+          2,
+          "R1206",
+          "R1,R2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "500k",
+          1,
+          "R1206",
+          "R3",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "220k",
+          1,
+          "R_AXIAL-0.3",
+          "R4",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "330k",
+          1,
+          "R_AXIAL-0.3",
+          "R5",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "RA-01SH",
+          1,
+          "WIRELM-SMD_RA-01SH",
+          "RA-01SH/HT-RA62",
+          {
+            "Manufacturer Part": "Ra-01SH",
+            "Manufacturer": "Ai-Thinker(安信可)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2764087"
+          }
+        ],
+        [
+          "TS02-66-150-BK-100-SCR-D",
+          1,
+          "SW-TH_4P-L6.0-W6.0-P4.50-LS6.5",
+          "RST",
+          {
+            "Manufacturer Part": "TS02-66-150-BK-100-SCR-D",
+            "Manufacturer": "CUI",
+            "Supplier": "LCSC",
+            "Supplier Part": "C4365133"
+          }
+        ],
+        [
+          "ZX-PZ2.54-1-7PZZ",
+          1,
+          "HDR-TH_7P-P2.54-V-M",
+          "U1",
+          {
+            "Manufacturer Part": "ZX-PZ2.54-1-7PZZ",
+            "Manufacturer": "Megastar(兆星)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C7501265"
+          }
+        ],
+        [
+          "nice!nano v2",
+          1,
+          "NICE!NANO V2_2",
+          "U3",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "nice!",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ]
+      ],
+      "updateTime": 1720915518,
+      "createTime": 1711247602,
+      "histories": [],
+      "created_at": "2024-03-24 02:33:22",
+      "updated_at": "2024-07-14 01:05:18"
+    },
+    {
+      "uuid": "f2944d81318c7ced785dd7e57f6572d8",
+      "puuid": "6c96f18c9867eae199421726f7f8b882",
+      "title": "PCB_Sidekick Breakout V1.0",
+      "filename": "PCB_Sidekick Breakout V1.0.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "3eb1249f3ebb4284ae221b0379016582": 2,
+        "0f61bc130b66439cb6e6aee411f9ec0d": 1,
+        "153ed004b0794cb6b8a2ebde7a1aabdf": 1,
+        "8e9b1be4bcb6420dbd1d09bf04b02792": 3,
+        "b111ea66e8384780b5ead25874f3491d": 1
+      },
+      "BOM": [],
+      "updateTime": 1720914939,
+      "createTime": 1720530007,
+      "histories": [],
+      "created_at": "2024-07-09 14:00:07",
+      "updated_at": "2024-07-14 00:55:39"
+    },
+    {
+      "uuid": "de07d5ae7ade10c0eeb65dc87b6aeed5",
+      "puuid": "6c96f18c9867eae199421726f7f8b882",
+      "title": "PCB_Sidekick Breakout V1.1",
+      "filename": "PCB_Sidekick Breakout V1.1.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "70aa5812f21f4991bf427395d51849f4": 1,
+        "14a6bbd93bf647e9a25dd7681f1ee662": 1,
+        "0f61bc130b66439cb6e6aee411f9ec0d": 1
+      },
+      "BOM": [],
+      "updateTime": 1720916670,
+      "createTime": 1720532186,
+      "histories": [],
+      "created_at": "2024-07-09 14:36:26",
+      "updated_at": "2024-07-14 01:24:30"
+    }
+  ],
+  "sort": [],
+  "title": "Sidekick Breakout V1.0",
+  "foldername": "Sidekick Breakout V1.0",
+  "schfilename": "Sidekick Breakout V1.0.json",
+  "schfilemtime": 1720915518854
+}
