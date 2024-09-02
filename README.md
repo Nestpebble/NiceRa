@@ -4,6 +4,12 @@ My DIY boards.
 ## Disclaimer
 These boards have not been tested and may have bugs. Manufacture at your own risk!
 
+## Notes
+[Lora modules & dimensions](./Lora_Modules.md)
+
+## Useful links:
+### [Haruki Toreda stuff](https://github.com/HarukiToreda/Meshtastic-Experiments/tree/main)
+
 ## Other peoples boards:
 ### Fake-tec
 https://github.com/gargomoma/fakeTec_pcb/
@@ -26,5 +32,4 @@ https://sites.google.com/view/econotastic/home
 https://oshwlab.com/vardas/meshheltectiny
 * Pretty complete
 
-## Notes
-[Lora modules & dimensions](./Lora_Modules.md)
+
