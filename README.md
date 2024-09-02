@@ -5,6 +5,12 @@ My DIY boards.
 These boards have not been tested and may have bugs. Manufacture at your own risk!
 
 ## Other peoples boards:
+### Fake-tec
+https://github.com/gargomoma/fakeTec_pcb/
+* An excellent design, using the outline of the Heltec v3 to take advantage of all the cases out there.
+* Has a voltage divider built-in, with thru-hole or SMD resistors
+* Can flush-mount the PCB to reduce height even further
+
 ### Cheapmesh - HT-CT62 based
 https://gitlab.com/paulhausk/CheapMesh/-/tree/main
 * Multiple options to power & interface
