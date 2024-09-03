@@ -6,6 +6,7 @@ These boards have not been tested and may have bugs. Manufacture at your own ris
 
 ## Notes
 [Lora modules & dimensions](./Lora_Modules.md)
+
 [GPS power consumption measurements](./GPS_power_consumption.md)
 
 ## Useful links:
