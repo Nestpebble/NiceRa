@@ -11,4 +11,4 @@ This has 3 options for adding battery voltage sense resistors:
 
 ### V1.1 Small board
 This has no sense resistors, and the GND and VCC wires must be wired in using jump wires from the main board.
-![V1.0](./render_sidekick_v1.1.png)
+![V1.1](./render_sidekick_v1.1.png)
