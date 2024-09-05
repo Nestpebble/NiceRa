@@ -5,6 +5,8 @@ My DIY boards.
 These boards have not been tested and may have bugs. Manufacture at your own risk!
 
 ## Notes
+[Standard pinout for Pro-Micro board](./Pro-micro_std_pinout.md)
+
 [Lora modules & dimensions](./Lora_Modules.md)
 
 [GPS power consumption measurements](./GPS_power_consumption.md)
