@@ -1,8 +1,10 @@
 # NiceRa
 My DIY boards.
 
+![Nice-ra sidekicks and a promicro ](./nicera-sidekicks.png)
+
 ## Disclaimer
-These boards have not been tested and may have bugs. Manufacture at your own risk!
+These boards have not been tested under every circumstance and may have bugs. Manufacture at your own risk!
 
 ## Notes
 [Standard pinout for Pro-Micro board](./Pro-micro_std_pinout.md)
