@@ -13,7 +13,7 @@ This has 4 options for Reset and User buttons:
 4) 2x 3x4mm SMD tactile switches on the Pro-Micro side
 Secret hidden option 5) A 4.5x4.5mm thru-hole tactile switch can be placed between pins 23 & 24 (i.e. RST and GND) on the radio module side.
 
-![Nice-ra sidekick V2.0 button options ](./Sidekick V2.0.png)
+![Nice-ra sidekick V2.0 button options ](./Sidekick_V2.0.png)
 
 ### How to order
 1) Take the zip folder with the Gerber files in
