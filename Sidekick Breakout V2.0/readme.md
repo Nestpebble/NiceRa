@@ -1,4 +1,4 @@
-## Sidekick Breakout V2.0
+## Sidekick Breakout V2.0 - now with buttons!
 
 ### V2.0 Full-size board
 This has 3 options for adding battery voltage sense resistors:
