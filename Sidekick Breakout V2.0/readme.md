@@ -1,7 +1,7 @@
 ## Sidekick Breakout V2.0 - now with buttons!
 
 ### V2.0 Full-size board
-This has 3 options for adding battery voltage sense resistors:
+This has 2 options for adding battery voltage sense resistors:
 1) two thru-hole resistors (ratio 2:3, e.g. 220k & 330k)
 2) two 1206 size SMD resistors (e.g. 750k & 500k)
 Secret hidden option 3) two 0805 resistors on the same footprint as the 1205
