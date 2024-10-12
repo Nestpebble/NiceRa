@@ -13,20 +13,20 @@ This has 4 options for Reset and User buttons:
 3) 2x 3.5x6mm SMD tactile switches on the Pro-Micro side
 4) 2x 3x4mm SMD tactile switches on the Pro-Micro side
 
-Secret hidden option 5) A 4.5x4.5mm thru-hole tactile switch can be placed between pins 23 & 24 (i.e. RST and GND) on the radio module side.
+   Secret hidden option 5) A 4.5x4.5mm thru-hole tactile switch can be placed between pins 23 & 24 (i.e. RST and GND) on the radio module side.
 
 ![Nice-ra sidekick V2.0 button options ](./Sidekick_V2.0.png)
 
 ### How to order
-1) Take the zip folder with the Gerber files in
-2) Upload it to the PCB fabricator of your choice (I've put placeholder text for JLCPCB order numbers on the board, but this is covered by the radio module once assembled. Note that you have to select the option to place the order number there, otherwise they'll add it where it suits them!)
-3) Select surface finish, PCB thickness, and other options
-4) I've tested these boards at 1.0mm thickness, and they work ok. Thicker is better, but obviously translates directly into node size
+1) Download the zip file containing the Gerber files
+3) Upload the whole zip to the PCB fabricator of your choice (I've put placeholder text for JLCPCB order numbers on the board, but this is covered by the radio module once assembled. **Note that you have to select the option to place the order number there, otherwise they'll add it where it suits them!**)
+4) Select surface finish, PCB thickness, and other options. Beware using HASL with lead in if youre planning to use low temperature solder containing bismuth.
+5) I've tested these boards at 1.0mm thickness, and they work ok. Thicker is better, but obviously translates directly into node size.
 
 ### How to assemble
 As before, you will need:
 * 1x NRF5280 Pro-micro - a Nice!Nano clone that is available on AliExpress[^1] for ~$3 plus shipping
-* 1x HT-RA62 **or** RA-01SH module
+* 1x HT-RA62 **or** RA-01SH module - availabe from the above tat merchant
 * 2x Resistors (see options above)
 * 2x Tactile switches (see options above)
 
