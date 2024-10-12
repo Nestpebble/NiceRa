@@ -14,7 +14,7 @@ These boards have not been tested under every circumstance and may have bugs. Ma
 [GPS power consumption measurements](./GPS_power_consumption.md)
 
 ## Useful links:
-### [Haruki Toreda stuff](https://github.com/HarukiToreda/Meshtastic-Experiments/tree/main)
+### [Haruki Toreda stuff](https://harukitoreda.github.io/Meshtastic-Experiments/)
 
 ## Other peoples boards:
 ### Fake-tec
