@@ -5,7 +5,8 @@ This has 2 options for adding battery voltage sense resistors:
 1) two thru-hole resistors (ratio 2:3, e.g. 220k & 330k)
 2) two 1206 size SMD resistors (e.g. 750k & 500k)
 
-Secret hidden option 3) two 0805 resistors on the same footprint as the 1205
+   Secret hidden option 3) two 0805 resistors on the same footprint as the 1205
+
 
 This has 4 options for Reset and User buttons:
 1) 2x 6x6mm SMD tactile switches on the radio module side
