@@ -17,25 +17,29 @@ These boards have not been tested under every circumstance and may have bugs. Ma
 ### [Haruki Toreda stuff](https://harukitoreda.github.io/Meshtastic-Experiments/)
 
 ## Other peoples boards:
-### Fake-tec
+### Fake-tec - NRF52840
 https://github.com/gargomoma/fakeTec_pcb/
+* Uses the same NRF52840 Pro-micro boards as my designs above
 * An excellent design, using the outline of the Heltec v3 to take advantage of all the cases out there.
 * Has a voltage divider built-in, with thru-hole or SMD resistors
 * Can flush-mount the PCB to reduce height even further
 
-### Cheapmesh - HT-CT62 based
+### Cheapmesh - ESP32-C3
 https://gitlab.com/paulhausk/CheapMesh/-/tree/main
+* HT-CT62 based
 * Multiple options to power & interface
 * Initial issue has native USB d+/d- switched - check before building
 * Has components on the underside that make it harder to assemble
 
-### Econotastic
+### Econotastic - RP2040
 https://sites.google.com/view/econotastic/home
+* RP Pico (or clone) as MCU
 * Uses RA-01SH, but can also use HT-RA62
 * Changes in code not really required - see `TCXO_OPTIONAL`
 
-### Mesh Heltec Tiny
+### Mesh Heltec Tiny - ESP32-C3
 https://oshwlab.com/vardas/meshheltectiny
+* HT-CT62 based
 * Pretty complete
 
 
