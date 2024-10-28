@@ -14,6 +14,10 @@ These boards have not been tested under every circumstance and may have bugs. Ma
 [GPS power consumption measurements](./GPS_power_consumption.md)
 
 ## Useful links:
+
+### [Adafruit bootloader updates](https://github.com/adafruit/Adafruit_nRF52_Bootloader/releases)
+Find update-nice_nano_bootloader-0.9.x, and copy the uf2 across to your pro-micro.
+
 ### [Haruki Toreda stuff](https://harukitoreda.github.io/Meshtastic-Experiments/)
 
 ## Other peoples boards:
