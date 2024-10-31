@@ -15,6 +15,8 @@ These boards have not been tested under every circumstance and may have bugs. Ma
 
 ## Useful links:
 
+### [The vaRDas unofficial firmware flasher](https://mrekin.duckdns.org/flasher/)
+
 ### [Adafruit bootloader updates](https://github.com/adafruit/Adafruit_nRF52_Bootloader/releases)
 Find update-nice_nano_bootloader-0.9.x, and copy the uf2 across to your pro-micro.
 
@@ -46,4 +48,13 @@ https://oshwlab.com/vardas/meshheltectiny
 * HT-CT62 based
 * Pretty complete
 
+### Ikoka nano
+https://github.com/ndoo/ikoka-nano-meshtastic-device
+* Uses NRF52 based Xiao board
+* Uses a 30db radio module, 1W of power in a very small package
 
+### Original Xiao BLE node
+https://github.com/meshtastic/firmware/blob/master/variants/xiao_ble/README.md
+* Uses NRF52 based Xiao board
+* Shows the basic pinout and procedures for making the basic node.
+* The original!
