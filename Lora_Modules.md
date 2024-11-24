@@ -14,9 +14,9 @@
 | Waveshare  | LoRa Node Module                                                                                                                        | 21x52             | yes  | SX1262           | Yes  | Breakout board          | Int       |
 | RAK        | [4631](https://docs.rakwireless.com/Product-Categories/WisBlock/RAK4631/Overview/)                                                      | 20x30             | Yes  | NRF52 & SX1262   | Yes2 | Wis connector           | Int       |
 | RAK        | 4630                                                                                                                                    | 15x23x3           | Yes  | NRF52 & SX1262   | Yes2 | 1.2mm castle on 4 sides |           |
-| Minew      | [MS24SF1](https://www.minewstore.com/product/nrf52840-sx1262-ms24sf1/)<br>https://en.minewsemi.com/lora-module/nrf52840-sx1262-ms24sf1) | 25x23.5x2.8       | No   | NRF52 & SX1262   | Yes2 | Underside pads          | Ext P1.02 |
+| Minew      | [MS24SF1](https://www.minewstore.com/product/nrf52840-sx1262-ms24sf1/) | 25x23.5x2.8       | No   | NRF52 & SX1262   | Yes2 | Underside pads          | Ext P1.02 |
 | Heltec     | [HT-CT62](https://docs.heltec.cn/en/node/esp32/ht_ct62/index.html)                                                                      | 17.78x 17.78x 2.8 | Yes  | ESP32C3 & SX1262 | Yes2 | 1.27mm stamp            | Int       |
-| Minew      | [SX1262-MS21SF13](https://en.minewsemi.com/lora-module/sx1262-ms21sf13)                                                              | 16.4x 15x 3       | Yes  | SX1262                 | Yes  |      1.8mm stamp               |           |
+| Minew      | [SX1262-MS21SF13](https://en.minewsemi.com/lora-module/sx1262-ms21sf13/)                                                           | 16.4x 15x 3       | Yes  | SX1262                 | Yes  |      1.8mm stamp               |           |
 | Seeed      | [Wio-SX1262](https://www.seeedstudio.com/Wio-SX1262-Wireless-Module-p-5981.html)                                                        | 11.6x11x 2.95     | Yes  | SX1262           | Yes  | 1.27mm stamp            |           |
 
 ## NRF52840
