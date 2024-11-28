@@ -16,9 +16,13 @@ These boards have not been tested under every circumstance and may have bugs. Ma
 ## Useful links:
 
 ### [The vaRDas unofficial firmware flasher](https://mrekin.duckdns.org/flasher/)
+vaRDas is kind enough to maintain a flasher with the latest releases of the firmware.
 
 ### [Adafruit bootloader updates](https://github.com/adafruit/Adafruit_nRF52_Bootloader/releases)
 Find update-nice_nano_bootloader-0.9.x, and copy the uf2 across to your pro-micro.
+
+### [Nice!Nano starting guide](https://nicekeyboards.com/docs/nice-nano/getting-started/)
+Some useful information on the board that the Pro-Micro is "inspired by".
 
 ### [Haruki Toreda stuff](https://harukitoreda.github.io/Meshtastic-Experiments/)
 
