@@ -1,5 +1,7 @@
 ## NRF52 PRO MICRO PIN ASSIGNMENT
 
+![Schematic for pro-micro ](./Schematic_NRF52_ProMicro_DIY.png)
+
 This table is taken from the pin assignment in [variants/diy/nrf52_promicro_diy_tcxo/variant.h](https://github.com/meshtastic/firmware/blob/master/variants/diy/nrf52_promicro_diy_tcxo/variant.h)
 
 | Pin   | Function    |     | Pin      | Function     | RF95  |
