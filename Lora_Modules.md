@@ -25,6 +25,7 @@
 | -------------- | -------------------------------------------------------------------------------------------------------------------------------------- | ----------------- | ---- | ---------------- | ---- | ---------------- | --------- |
 | RAK            | [4631](https://docs.rakwireless.com/Product-Categories/WisBlock/RAK4631/Overview/)                                                     | 20x30             | Yes  | NRF52 & SX1262   | Yes2 | Wis connector    | Int       |
 | Minew          | [MS24SF1](https://en.minewsemi.com/lora-module/nrf52840-sx1262-ms24sf1) | 25x23.5x2.8       | No   | NRF52 & SX1262   | Yes2 | Underside pads   | Ext P1.02 |
+| Minew | [ME25LS01](https://en.minewsemi.com/lora-module/lr1110-nrf52840-me25LS01) | 25.5x20x2.6 | Yes  | NRF52 & LR1110 | No   | Underside     | Int       |
 | Ebyte          | E73-2G4M08S1C                                                                                                                          | 13x18x3           | __   | NRF52            | No   | Edge & Underside | Na        |
 | Ebyte          | E73-2G4M08S1CX                                                                                                                         | 13x18x3           | __   | NRF52            | Yes  | Edge & Underside | Na        |
 | Nice!Keyboards | [Nicenano2](https://nicekeyboards.com/nice-nano/)                                                                                      | 33x17.8x3.2       | __   | NRF52            | No   | 2.54mm holes     | Na        |
@@ -32,6 +33,13 @@
 | Seeed          | [Xiao BLE](https://wiki.seeedstudio.com/XIAO_BLE/)                                                                                     | 21x17.5           | __   | NRF52            | No   | 2.54mm holes     | Na        |
 | Heltec         | [HT-CT62](https://docs.heltec.cn/en/node/esp32/ht_ct62/index.html)                                                                     | 17.78x 17.78x 2.8 | Yes  | ESP32C3 & SX1262 | Yes2 | 1.27mm stamp     | Int       |
 | Seeed          | MDBT50Q-U1M                                                                                                                            | 10.5x15.5x2.2     | __   | NRF52            | Opt  | Underside pads   | Na        |
+
+## LR11xx
+
+| Mfr   | Module                                                                    | Dimensions  | TCXO | MCU / Lora     | IPEX | Pins          | RF Switch |
+| ----- | ------------------------------------------------------------------------- | ----------- | ---- | -------------- | ---- | ------------- | --------- |
+| Ebyte | [E80-900M2213S](E80-xxxM2213S_UserManual_EN_v1.0.pdf)                     | 26x16x3     | Yes  | LR1121         | Yes  | 1.27mm castle | Int       |
+| Minew | [ME25LS01](https://en.minewsemi.com/lora-module/lr1110-nrf52840-me25LS01) | 25.5x20x2.6 | Yes  | NRF52 & LR1110 | No   | Underside     | Int       |
 
 ## LLCC68
 
